@@ -1,7 +1,37 @@
 [
     {
-        "name": "Project 1",
-        "link": "https://www.google.com/",
+        "name": "Project Bananas",
+        "link": "https://github.com/mtrejo0/web",
+        "description": "Final project for 19.005",
+        "img": "paleta.jpg",
+        "tags": [
+            "CAD",
+            "2.009"
+        ]
+    },
+    {
+        "name": "Project SHPE",
+        "link": "https://github.com/mtrejo0/web",
+        "description": "Final project for 19.005",
+        "img": "headshot.jpg",
+        "tags": [
+            "CAD",
+            "2.009"
+        ]
+    },
+    {
+        "name": "Project Bananas",
+        "link": "https://github.com/mtrejo0/web",
+        "description": "Final project for 19.005",
+        "img": "headshot.jpg",
+        "tags": [
+            "CAD",
+            "2.009"
+        ]
+    },
+    {
+        "name": "Project Bananas",
+        "link": "https://github.com/mtrejo0/web",
         "description": "Final project for 19.005",
         "img": "headshot.jpg",
         "tags": [
